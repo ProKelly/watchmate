@@ -4,7 +4,7 @@ watchmate is a website that acts a portal for movie sales, django and django Res
 **How To Use watchmate**
 
 **step 1:** install django by running *pip install django* on your command line interface 
-**step 2:** install django rest framework by running *pip install rest_framework* on your command line interface
+**step 2:** install django rest framework by running *pip install djangorestframework* on your command line interface
 
 **User Authenticaation with DJango Rest**
 - I used Token authentication, so the programe is configured to use token authentication but others options such as
